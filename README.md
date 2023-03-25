@@ -28,3 +28,8 @@ dependencies:
 ```
 
 The .yml file can also be found here: https://github.com/Huayra1/Book_prediction/blob/main/bookpred.yml
+
+
+The complete repository with necessary files and documentation can be found here: https://github.com/Huayra1/Book_prediction
+
+The dataset for the project can be found here: https://github.com/Huayra1/Book_prediction/blob/main/books.csv
