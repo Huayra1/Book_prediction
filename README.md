@@ -27,4 +27,4 @@ dependencies:
   - lightgbm=3.3.5
 ```
 
-The .yml file can also be found here: [[https://github.com/Huayra1/Book_prediction/blob/main/bookpred.yml]]
+The .yml file can also be found here: https://github.com/Huayra1/Book_prediction/blob/main/bookpred.yml
